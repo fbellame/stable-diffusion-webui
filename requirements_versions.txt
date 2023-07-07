@@ -28,3 +28,4 @@ torch
 torchdiffeq==0.2.3
 torchsde==0.2.5
 transformers==4.25.1
+torchmetrics==0.11.4
